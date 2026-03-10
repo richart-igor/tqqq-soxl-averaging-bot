@@ -1,0 +1,1 @@
+worker: python etf_bot.py
